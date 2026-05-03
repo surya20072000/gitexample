@@ -12,3 +12,6 @@
 
 #Division
 "Division"
+
+#percentage
+"percentage"
