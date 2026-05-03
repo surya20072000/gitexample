@@ -9,3 +9,6 @@
 #Multiplication
 
 "Multiplication"
+
+#Division
+"Division"
