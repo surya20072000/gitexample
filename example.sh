@@ -9,5 +9,3 @@
 #Multiplication
 
 "Multiplication"
-
-"I am learning things slowly"
